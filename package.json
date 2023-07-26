@@ -1,7 +1,7 @@
 {
   "name": "n8n",
   "version": "1.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://n8n.io",
   "engines": {
     "node": ">=18.10",
